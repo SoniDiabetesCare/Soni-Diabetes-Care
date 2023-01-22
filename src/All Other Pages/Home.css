@@ -1,0 +1,228 @@
+.sdchome{
+     background-color: #4b9fd8;
+}
+
+.sdcnotice{
+     direction: rtl;
+}
+
+.mybell{
+     font-size: 50px;
+     box-shadow: 1px 10px 14px #5b6f94;
+     background-color: #7a96c6;
+     border-radius: 50px 0px 0px 50px;
+     margin-top: 20px;
+     padding: 1%;
+     padding-left: 5%;
+     cursor: pointer;
+}
+
+.bannline{
+     
+     cursor: pointer;
+     text-align: center;
+     font-size: 24px;
+     font-weight: 800;
+     font-family: Comic Sans MS;
+     position: fixed;
+     bottom: 20%;
+     right: 6px;
+     z-index: 1;
+}
+
+.bannbut{
+     color: white;
+     background-image: linear-gradient(to bottom, #0f2534 , #2d6991);
+}
+
+.bannbut:hover{
+     color: black;
+     background-image: linear-gradient(to bottom, #e9f50d , #bddd08);
+}
+
+.modback{
+     background-color: #85bee4;
+}
+
+.modhead{
+     font-family: Comic Sans MS;
+}
+
+.bannform{
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+     display: block;
+     font-family: Comic Sans MS;
+     font-weight: bold;
+}
+
+.formebox{
+     margin-bottom: 5%;
+     font-family: Comic Sans MS;
+}
+
+.formebutton{
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     display: block;
+     font-family: Comic Sans MS;
+}
+
+.sdcheadlineimage{
+     padding-bottom: 40px;
+}
+
+.grouppic{
+     height: auto;
+     max-width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 20px;
+     display: block;
+     box-shadow: 0 0 300px #e3d2c0;
+     border: 7px #6f6357 ridge;
+     border-radius: 20px;
+}
+
+.line1{
+     font-size: 24px;
+     font-weight: bolder;
+     margin-top: 30px;
+     margin-bottom: 16px;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: FreeMono, monospace;
+}
+
+.line2{
+     font-size: 30px;
+     font-weight: bolder;
+     line-height: 0.8;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: FreeMono, monospace;
+}
+
+.servepage{
+     background-image: url('https://i.ibb.co/jf0SjJ9/Rectangle.png');
+     background-repeat: no-repeat;
+     background-position: center 63%;
+     background-size: 100% 30%;
+}
+
+.servepageb{
+     background-image: url('https://i.ibb.co/mJcfHnN/Curve.png');
+     background-repeat: no-repeat;
+     background-position: right;
+}
+
+.mappost{
+     margin-bottom: 2%;
+}
+
+.mapicon{
+     font-size: 40px;
+     background-color: #c1dbff;
+     box-shadow: 1px 10px 14px #bfbfbf;
+     border-radius: 0px 50px 50px 0px;
+     padding-top: 0.5%;
+     padding-bottom: 0.5%;
+     padding-left: 1%;
+     padding-right: 1%;
+     float: left;
+}
+
+.blogback{
+     background-image: url('https://i.ibb.co/jf0SjJ9/Rectangle.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 100% 20%;
+}
+
+.blogb{
+     background-image: url('https://i.ibb.co/DV4GmxJ/Curve.png');
+     background-repeat: no-repeat;
+     background-position: left;
+     background-size: 100% 100%;
+}
+
+.serviceline1{
+     font-size: 36px;
+     font-weight: 700;
+     text-align: center;
+     margin-bottom: 2%;
+     text-shadow: 2px 3px #bfbfbf;
+     font-family: Comic Sans MS;
+     padding-top: 3%;
+}
+
+.servicelineb1{
+     font-size: 36px;
+     font-weight: 700;
+     text-align: center;
+     margin-bottom: 2%;
+     text-shadow: 2px 3px #bfbfbf;
+     font-family: Comic Sans MS;
+     padding-top: 3%;
+}
+
+.serviceline2{
+     font-size: 22px;
+     text-align: center;
+     margin-bottom: 3%;
+     font-family: Comic Sans MS;
+}
+
+.serviceimg{
+     border-radius: 50%;
+     border: 5px solid #3a6aa0;
+     box-shadow: 8px 6px 18px #538ebf;
+     height: 200px;
+     width: 200px;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     margin-top: 10%;
+}
+
+.servicepos{
+     background-color: #caefff;
+     box-shadow: 12px 14px 8px #528cbd;
+     border-radius: 60px;
+     padding: 5%;
+     padding-left: 10%;
+     margin-bottom: 10%;
+}
+
+.servemsh1{
+     font-size: 34px;
+     font-weight: 700;
+     margin-bottom: 2%;
+     color: #4a4a4a;
+     text-shadow: 2px 3px #bfbfbf;
+     font-family: Comic Sans MS;
+}
+
+.servems2{
+     color: #626262;
+     font-size: 18px;
+     font-family: Comic Sans MS;
+}
+
+.reviewback{
+     background-image: url('https://i.ibb.co/rw153pS/Curve.png');
+     background-repeat: no-repeat;
+     background-position: bottom;
+     background-size: 100% 30%;
+}
+
+.reviewb{
+     background-image: url('https://i.ibb.co/jf0SjJ9/Rectangle.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 100% 20%;
+}

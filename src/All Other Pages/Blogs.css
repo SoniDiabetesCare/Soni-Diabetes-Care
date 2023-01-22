@@ -1,0 +1,729 @@
+.hb{
+     padding-left: 3%;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     color: #5019e8;
+     text-shadow: -1px -2px 2px white;
+}
+
+.hbback{
+     background-image: url('https://i.ibb.co/88WQzbC/Se-Background.png');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     background-color: #70c2f8;
+     box-shadow: 14px 22px 28px #c2c2c2;
+     border-radius: 40px;
+     padding-top: 6rem;
+     padding-bottom: 4rem;
+     padding-left: 5%;
+     padding-right: 5%;
+     margin-bottom: 2%;
+}
+
+.headlineb{
+     text-align: center;
+     font-size: 48px;
+     line-height: 1.2;
+     font-weight: 800;
+     font-family: Comic Sans MS;
+     text-shadow: 2px 3px #4f8fab;
+}
+
+.sdcbh1{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Comic Sans MS;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-top: 25px;
+}
+
+.lineimage1{
+     height: 80px;
+     width: 80px;
+     margin-left: 2%;
+     border-radius: 50%;
+     border: 3px solid #70c2f8;
+     box-shadow: 10px 6px 8px #adb2b6;
+}
+
+.sdcbhp212{
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 13px;
+}
+
+.sdcbh2{
+     margin-left: 4%;
+     font-size: 20px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding-top: 13px;
+}
+
+.sdcbp1{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding-top: 10px;
+}
+
+.sdcbp2{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding-bottom: 20px;
+}
+
+.sdcbh3{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Comic Sans MS;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-top: 25px;
+}
+
+.sdcbp3{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp4{
+     font-size: 15px;
+     font-weight: 200;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+}
+
+.sdcbh4{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Comic Sans MS;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-top: 25px;
+}
+
+.sdcbcdhr{
+     direction: rtl;
+}
+
+.sdcbcdhead{
+     margin-left: 4%;
+     font-size: 26px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 20px;
+}
+
+.sdcbcdiimg{
+     height: 100px;
+     width: 160px;
+     border-radius: 50%;
+     margin-right: 3%;
+}
+
+.sdcbcdtex{
+     margin-top: auto;
+     margin-bottom: auto;
+     padding-left: 18px;
+     padding-right: 18px;
+     padding-bottom: 18px;
+     display: block;
+     font-size: 16px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+}
+
+.sdcbcdimgg{
+     width: 80%;
+     margin-top: 20px;
+     margin-bottom: 10px;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     padding: 6px;
+     border: 8px #70c2f8 ridge;
+     box-shadow: 0 0 40px #1c4663;
+}
+
+.sdcbcdtexbor{
+     padding: 10px;
+     box-shadow: 0 0 80px #9ed1f5 inset;
+}
+
+.sdcbp5{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 2%;
+     margin-bottom: 18px;
+}
+
+.sdcbh5{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Comic Sans MS;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-top: 25px;
+}
+
+.sdcbp6{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp7{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp8{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp9{
+     font-size: 15px;
+     font-weight: 200;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 40px;
+}
+
+.sdcbp10{
+     font-size: 15px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     background-image: linear-gradient(to right, #c8ef65 , #edfacc);
+     box-shadow: 4px 4px 12px #c1c1c1;
+     border-radius: 35px;
+     margin: 1%;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     padding: 1%;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 5%;
+     padding-right: 5%;
+}
+
+.sdcbp11{
+     font-size: 15px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     background-image: linear-gradient(to right, #ddad53 , #fbe4ba);
+     box-shadow: 4px 4px 12px #c1c1c1;
+     border-radius: 25px;
+     margin: 1%;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     padding: 1%;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 5%;
+     padding-right: 5%;
+}
+
+.sdcbp12{
+     font-size: 15px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     background-image: linear-gradient(to right, #a083d5 , #dccafc);
+     box-shadow: 4px 4px 12px #c1c1c1;
+     border-radius: 25px;
+     margin: 1%;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     padding: 1%;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 5%;
+     padding-right: 5%;
+}
+
+.sdcbp13{
+     font-size: 15px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     background-image: linear-gradient(to right, #ad7dc3 , #e3b8f6);
+     box-shadow: 4px 4px 12px #c1c1c1;
+     border-radius: 25px;
+     margin: 1%;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     padding: 1%;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 5%;
+     padding-right: 5%;
+}
+
+.sdcbh6{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Comic Sans MS;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-top: 25px;
+}
+
+.sdcbp14{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp15{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp16{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: left;
+     line-height: 1.5;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp17{
+     margin-top: 5px;
+     margin-left: 16px;
+}
+
+.sdcbp18{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: left;
+     line-height: 1.5;
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp19{
+     margin-top: 5px;
+     margin-left: 16px;
+}
+
+.sdcbp20{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: left;
+     line-height: 1.5;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp21{
+     margin-top: 5px;
+     margin-left: 16px;
+}
+
+.sdcbp22{
+     font-size: 22px;
+     font-family: Comic Sans MS;
+     text-align: center;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 30px;
+}
+
+.sdcbp23r{
+     direction: ltr;
+}
+
+.sdcbp23{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: 6px 8px 32px #5b6f94;
+     background-color: #ecc088;
+     border-radius: 0px 50px 50px 0px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-left: 5%;
+}
+
+.sdcbp24r{
+     direction: rtl;
+}
+
+.sdcbp24{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: -6px 8px 32px #5b6f94;
+     background-color: #7dd889;
+     border-radius: 50px 0px 0px 50px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-right: 5%;
+     direction: ltr;
+     text-align: right;
+}
+
+.sdcbp25r{
+     direction: ltr;
+}
+
+.sdcbp25{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: 6px 8px 32px #5b6f94;
+     background-color: #f6ff75;
+     border-radius: 0px 50px 50px 0px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-left: 5%;
+}
+
+.sdcbp26r{
+     direction: rtl;
+}
+
+.sdcbp26{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: -6px 8px 32px #5b6f94;
+     background-color: #ea8f8f;
+     border-radius: 50px 0px 0px 50px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-right: 5%;
+     direction: ltr;
+     text-align: right;
+}
+
+.sdcbp27r{
+     direction: ltr;
+}
+
+.sdcbp27{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: 6px 8px 32px #5b6f94;
+     background-color: #d2e078;
+     border-radius: 0px 50px 50px 0px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-left: 5%;
+}
+
+.sdcbp28r{
+     direction: rtl;
+}
+
+.sdcbp28{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: -6px 8px 32px #5b6f94;
+     background-color: #dfd3bb;
+     border-radius: 50px 0px 0px 50px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-right: 5%;
+     direction: ltr;
+     text-align: right;
+}
+
+.sdcbp29r{
+     direction: ltr;
+}
+
+.sdcbp29{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: 6px 8px 32px #5b6f94;
+     background-color: #e6bda2;
+     border-radius: 0px 50px 50px 0px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-left: 5%;
+}
+
+.sdcbp30r{
+     direction: rtl;
+}
+
+.sdcbp30{
+     font-size: 18px;
+     font-family: Comic Sans MS;
+     box-shadow: -6px 8px 32px #5b6f94;
+     background-color: #fdf3f5;
+     border-radius: 50px 0px 0px 50px;
+     width: 80%;
+     margin-top: 10px;
+     margin-bottom: 26px;
+     padding: 20px;
+     padding-right: 5%;
+     direction: ltr;
+     text-align: right;
+}
+
+.sdcbp31{
+     font-size: 18px;
+     font-weight: 200;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 40px;
+}
+
+.sdcbh7{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Comic Sans MS;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-top: 25px;
+}
+
+.sdcbp32{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbp33{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbhp834{
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 13px;
+}
+
+.sdcbh8{
+     margin-left: 4%;
+     font-size: 20px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding-top: 13px;
+}
+
+.sdcbp34{
+     font-size: 16px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+}
+
+.sdcbp35{
+     margin-top: 5px;
+     margin-left: 16px;
+}
+
+.sdcbp36{
+     font-size: 15px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     background-color: #ffdce2;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-left: 2%;
+     margin-right: 2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
+}
+
+.sdcbhp937{
+     background-color: #cbf4fa;
+     box-shadow: 4px 4px 12px #c1c1c1;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 13px;
+}
+
+.sdcbh9{
+     margin-left: 4%;
+     font-size: 20px;
+     font-weight: 600;
+     font-family: Comic Sans MS;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding-top: 13px;
+}
+
+.sdcbp37{
+     font-size: 16px;
+     font-family: Comic Sans MS;
+     text-align: justify;
+     line-height: 1.3;
+     margin-left: 2%;
+     margin-right: 2%;
+}
+
+.sdcbp38{
+     margin-top: 5px;
+     margin-left: 16px;
+}

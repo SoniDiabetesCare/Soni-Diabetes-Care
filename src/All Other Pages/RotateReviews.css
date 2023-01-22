@@ -1,0 +1,33 @@
+.rorecardbox{
+     padding: 1rem;
+     margin-bottom: 5%;
+}
+
+.rorecard{
+     height: 600px;
+     width: 250px;
+     overflow: hidden;
+     border: none;
+}
+
+.roreimg{
+     height: 250px;
+     width: 100%;
+}
+
+.roretbox{
+     background-image: linear-gradient(to top, #f5feff 70% , #6dbbfc);
+}
+
+.rorehead{
+     font-size: 22px;
+     font-family: Comic Sans MS;
+     font-weight: 600;
+     text-align: center;
+     margin-top: 5%;
+}
+
+.rorebody{
+     font-size: 16px;
+     font-family: Comic Sans MS;
+}

@@ -1,0 +1,281 @@
+.footlogo {
+     display: flex;
+}
+
+.footlogo > div {
+     width: 100%;
+     margin-top: 5%;
+}
+
+.logoimgfoot{
+     width: 140px;
+}
+
+.footsocial {
+     display: flex;
+}
+
+.footsocial > div {
+     width: 100%;
+     margin-top: 1%;
+}
+
+.smfoot{
+     height: 40px;
+     width: 40px;
+}
+
+.mapsdcfoot{
+     font-size: 30px;
+     color: initial;
+     text-decoration: none;
+}
+
+.footdetails {
+     display: flex;
+     flex-direction: row;
+     text-align: center;
+}
+
+.footflexleft{
+     flex: 50%;
+}
+
+.footflexright{
+     flex: 50%;
+}
+
+@media (max-width: 950px) {
+     .footdetails {
+          flex-direction: column;
+     }
+}
+
+.footd1{
+     line-height: 1;
+     font-size: 18px;
+     font-weight: bold;
+     text-align: center;
+     font-family: Comic Sans MS;
+     text-shadow: -1px 1px 2px #0b779b;
+}
+
+.footd2{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Comic Sans MS;
+}
+
+.footd3{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Comic Sans MS;
+}
+
+.footd4{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Comic Sans MS;
+}
+
+.footd5{
+     line-height: 1;
+     font-size: 18px;
+     text-align: center;
+     font-family: Comic Sans MS;
+}
+
+.footd6{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Comic Sans MS;
+}
+
+.footpagedetails {
+     display: flex;
+     margin-top: 2%;
+}
+
+.footpagedetails > div {
+     width: 100%;
+}
+
+a{
+     color: initial;
+     text-decoration: none;
+}
+
+a:hover{
+     color: initial;
+     text-decoration: none;
+}
+
+.footheadau{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     color: initial;
+     text-decoration: none;
+     font-family: Comic Sans MS;
+}
+
+.footheadau:hover{
+     color: initial;
+     text-decoration: none;
+}
+
+.footheadau1{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheadau2{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheaded{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheaded1{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheaded2{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheaded3{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheaded4{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheaded5{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheadse{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheadse1{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheadse2{
+     font-size: 14px;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.footheadfaq{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     font-family: Comic Sans MS;
+}
+
+.foottac {
+     display: flex;
+     text-align: center;
+}
+
+.foottac > div {
+     width: 100%;
+}
+
+.footline{
+     font-size: 9px;
+     font-weight: bold;
+     font-family: Comic Sans MS;
+}
+
+.footlinem1{
+     font-size: 9px;
+     font-weight: bold;
+     font-family: Comic Sans MS;
+     color: initial;
+     text-decoration: none;
+}
+
+.footlinem1:hover{
+     color: initial;
+     text-decoration: none;
+}
+
+.footlinewhole{
+     margin-top: 3%;
+}
+
+.subsline1{
+     font-size: 26px;
+     font-weight: 700;
+     text-align: center;
+     text-shadow: 2px 3px #bfbfbf;
+     margin-top: 2%;
+     font-family: Comic Sans MS;
+}
+
+.subsline2{
+     text-align: center;
+     margin-bottom: 3%;
+     font-size: 14px;
+     font-family: Comic Sans MS;
+}
+
+.footback1{
+     background-image: url('https://i.ibb.co/V97L6ZM/Curve.png');
+     background-repeat: no-repeat;
+     background-position: bottom;
+     background-size: 100% 54%;
+}
+
+.footback2{
+     background-image: url('https://i.ibb.co/WpT7YHy/Curve.png');
+     background-repeat: no-repeat;
+     background-position: bottom;
+     background-size: 100% 45%;
+}
+
+.footback3{
+     background-image: url('https://i.ibb.co/yBrXd5G/Heart.png');
+     background-repeat: no-repeat;
+     background-position: left;
+     background-position-x: 2%;
+}
+
+.myfootform{
+     padding-bottom: 5%;
+}
+
+.formw{
+     font-family: Poppins;
+}

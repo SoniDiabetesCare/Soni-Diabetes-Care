@@ -1,0 +1,61 @@
+.navbar-toggler{
+     margin-right: 20px;
+}
+
+.navbarwhole{
+     background-color: #4b9fd8;
+}
+
+.navbar{
+     --bs-navbar-padding-y: -1.5rem !important;
+}
+
+.logoimg{
+     width: 220px;
+     background-color: #c9e4f7;
+     box-shadow: 0 0 20px #d4e8f6;
+     border-radius: 18px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+
+.navbutton{
+     width: 25%;
+}
+
+.navtext{
+     color: #ffffff;
+     text-decoration: none;
+     font-family: Comic Sans MS;
+     font-size: 24px;
+}
+
+.navtext:hover{
+     color: #ffffff;
+     text-decoration: none;
+     font-family: Comic Sans MS;
+     font-size: 24px;
+}
+
+.navtextau{
+     color: #ffffff;
+     width: 110px;
+     text-decoration: none;
+     font-family: Comic Sans MS;
+     font-size: 24px;
+}
+
+.navtextau:hover{
+     color: #ffffff;
+     text-decoration: none;
+     font-family: Comic Sans MS;
+     font-size: 24px;
+}
+
+.navbartext{
+     /* width: 118px; */
+     font-weight: 500;
+     font-size: 22px;
+     margin-right: 7%;
+     font-family: Comic Sans MS;
+}
